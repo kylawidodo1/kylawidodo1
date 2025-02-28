@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyla Widodo</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate developer from Indonesia and a CS and Neuro major at Dartmouth College! </h3>
 
 - 🔭 I’m currently working on **VisaEase**
 
