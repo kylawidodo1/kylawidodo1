@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **VisaEase**
 
-- 📫 How to reach me **naomi.k.widodo.25@dartmouth.edu**
+- 📫 How to reach me **widodokyla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
